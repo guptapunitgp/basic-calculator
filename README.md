@@ -9,3 +9,5 @@
 #In this web we used html, css, and javascript in the html so we can say we used majorly html on the program
 <br>
 #In this web we create a real calculator view
+<br>
+#In this web we create a display just like every calculator having
