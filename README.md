@@ -12,4 +12,6 @@
 <br>
 #In this web we create a display just like every calculator having
 <br>
-#In this web we align boarder display and we gave black colour to border
+#In this web we align boarder and  display and we gave black colour to border
+<br>
+#In this web we align calcualtor and we gave green colour for input screen of display and give colours to our all operation button
